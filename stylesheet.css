@@ -35,10 +35,6 @@ img {
     margin-bottom: 5px;
 }
 
-navbar a:hover {
-    border: 2px solid rgb(121, 39, 121);
-}
-
 footer {
     background-color: grey;
     padding:0px; 
