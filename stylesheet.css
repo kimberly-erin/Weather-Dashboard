@@ -54,5 +54,6 @@ footer hr {
 
 @media (max-width: 480px) {
     .navbar li {
-      padding: 10px;
+        padding: 10px;
     }
+}
