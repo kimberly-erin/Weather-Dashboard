@@ -2,6 +2,20 @@ body {
     background-color:#D6D5D5;
 }
 
+.navbar-header {
+    color: white;
+}
+.navbar-header:hover {
+    color: black;
+}
+
+.navbar-brand {
+    background-color: rgb(121, 39, 121);
+}
+.navbar-brand:hover {
+    border: 2px solid rgb(121, 39, 121);
+}
+
 .shading-main {
     background-color:white;
     padding: 20px;
@@ -19,6 +33,10 @@ img {
     margin-left: 5px;
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+a:hover {
+    border: 2px solid rgb(121, 39, 121);
 }
 
 footer {
